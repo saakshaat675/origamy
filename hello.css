@@ -1,0 +1,24 @@
+.my{
+    background-color : green;
+
+display:flex ;
+justify-content: space-between 
+
+
+   }
+.space{
+   display:flex;
+   flex-wrap:wrap;
+   justify-content:space-evenly
+}
+.me{
+display:flex;
+justify-content: flex-end
+
+}
+.my{
+    display:flex;
+    justify-content: flex-end
+
+
+}
